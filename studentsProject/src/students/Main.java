@@ -7,6 +7,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class Main {
@@ -52,6 +53,10 @@ public class Main {
 					student.setMarks(marks);
 			}
 					students.add(student);
+			break;
+		}
+		case 2: {
+			students.sort(Comparator.comparing(Student::getFirstName).thenComparing(Student::getLastName));
 			break;
 		}
 		
