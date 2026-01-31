@@ -1,0 +1,5 @@
+Anton,Antonov,5,6,4
+Boris,Borisov,4,5,3
+Velko,Velkov,5,6
+Galia,Galeva
+Daniel,Danielov,4,5,3
