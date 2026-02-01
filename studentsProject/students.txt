@@ -1,6 +1,5 @@
-Ali,Antonova,3,4,5
-Anton,Antonov,5,6,4
-Boris,Borisov,4,5,3
-Daniel,Danielov,4,5,3
-Galia,Galeva
-Velko,Velkov,5,6
+Anna Maria,Liubenova,4,5
+Anton,Antonov,3
+Boris,Borisov,4,5,6
+Dian,Danielov,3,4
+Elizabeth,Green
